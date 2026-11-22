@@ -17,6 +17,12 @@ python3 -m http.server 8000
 `index.html`을 더블클릭해도 대부분 동작합니다(모든 링크·자산이 상대 경로).
 워크스페이스 원본에서는 사이트가 `clone/` 폴더 안에 있습니다.
 
+## 공개 배포
+
+- 사이트: https://aicanvas-clay-clone.vercel.app/
+- GitHub: https://github.com/jennylee3769-cmyk/aicanvas-clay-clone
+- Vercel 프로젝트가 위 GitHub 저장소(`main`)에 연결되어 있어, push하면 자동으로 다시 배포됩니다.
+
 ## 구성
 
 | 경로 | 내용 |
